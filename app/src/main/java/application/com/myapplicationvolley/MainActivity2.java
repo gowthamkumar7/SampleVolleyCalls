@@ -5,4 +5,9 @@ package application.com.myapplicationvolley;
  */
 
 public class MainActivity2 {
+
+
+    MainActivity2() {
+
+    }
 }
