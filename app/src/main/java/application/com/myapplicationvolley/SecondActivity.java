@@ -36,10 +36,7 @@ public class SecondActivity extends AppCompatActivity {
         });
 
         mLoader.get("http://s5.tinypic.com/21mrqjq_th.jpg", ImageLoader.getImageListener(mImageVew, R.mipmap.ic_launcher, R.mipmap.ic_launcher));
-
         //mImageVew.setImageUR("http://s5.tinypic.com/21mrqjq_th.jpg",mLoader);
-
-
     }
 
 }
